@@ -1,0 +1,13 @@
+# ArcGIS Pro project data (not redistributed)
+*.gdb/
+*.aprx
+*.lock
+.backups/
+ImportLog/
+Index/
+GpMessages/
+*.atbx.bak
+
+# Python
+__pycache__/
+*.pyc
